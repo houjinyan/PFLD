@@ -1,0 +1,166 @@
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] workers: 16
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] devices_id: 0
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] test_initial: False
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] base_lr: 0.0001
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] weight_decay: 1e-06
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] lr_patience: 40
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] start_epoch: 1
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] end_epoch: 200
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] snapshot: ./checkpoint/snapshot/
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] log_file: ./checkpoint/train.logs
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] tensorboard: ./checkpoint/tensorboard
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] resume: 
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] dataroot: ./data/train_data/list.txt
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] val_dataroot: ./data/test_data/list.txt
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] train_batchsize: 128
+[2022-07-19 10:52:59,244] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:24] [INFO] val_batchsize: 8
+[2022-07-19 10:57:53,978] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_1.pth.tar
+[2022-07-19 11:02:50,916] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_2.pth.tar
+[2022-07-19 11:07:36,206] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_3.pth.tar
+[2022-07-19 11:12:20,289] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_4.pth.tar
+[2022-07-19 11:17:12,414] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_5.pth.tar
+[2022-07-19 11:21:57,903] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_6.pth.tar
+[2022-07-19 11:26:43,447] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_7.pth.tar
+[2022-07-19 11:31:40,062] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_8.pth.tar
+[2022-07-19 11:36:26,277] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_9.pth.tar
+[2022-07-19 11:41:10,120] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_10.pth.tar
+[2022-07-19 11:46:03,878] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_11.pth.tar
+[2022-07-19 11:50:56,902] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_12.pth.tar
+[2022-07-19 11:55:42,940] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_13.pth.tar
+[2022-07-19 12:00:37,031] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_14.pth.tar
+[2022-07-19 12:05:31,097] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_15.pth.tar
+[2022-07-19 12:10:14,022] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_16.pth.tar
+[2022-07-19 12:15:00,905] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_17.pth.tar
+[2022-07-19 12:19:57,895] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_18.pth.tar
+[2022-07-19 12:24:42,893] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_19.pth.tar
+[2022-07-19 12:29:27,961] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_20.pth.tar
+[2022-07-19 12:34:19,913] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_21.pth.tar
+[2022-07-19 12:39:01,659] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_22.pth.tar
+[2022-07-19 12:43:47,587] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_23.pth.tar
+[2022-07-19 12:48:31,026] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_24.pth.tar
+[2022-07-19 12:53:18,757] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_25.pth.tar
+[2022-07-19 12:58:11,018] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_26.pth.tar
+[2022-07-19 13:02:58,135] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_27.pth.tar
+[2022-07-19 13:07:58,529] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_28.pth.tar
+[2022-07-19 13:12:56,391] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_29.pth.tar
+[2022-07-19 13:17:39,959] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_30.pth.tar
+[2022-07-19 13:22:33,538] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_31.pth.tar
+[2022-07-19 13:27:25,035] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_32.pth.tar
+[2022-07-19 13:32:13,972] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_33.pth.tar
+[2022-07-19 13:37:09,777] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_34.pth.tar
+[2022-07-19 13:41:54,534] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_35.pth.tar
+[2022-07-19 13:46:38,977] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_36.pth.tar
+[2022-07-19 13:51:32,820] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_37.pth.tar
+[2022-07-19 13:56:29,212] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_38.pth.tar
+[2022-07-19 14:01:12,571] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_39.pth.tar
+[2022-07-19 14:06:03,534] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_40.pth.tar
+[2022-07-19 14:10:48,891] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_41.pth.tar
+[2022-07-19 14:15:43,523] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_42.pth.tar
+[2022-07-19 14:20:43,056] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_43.pth.tar
+[2022-07-19 14:25:26,542] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_44.pth.tar
+[2022-07-19 14:30:13,507] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_45.pth.tar
+[2022-07-19 14:35:08,485] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_46.pth.tar
+[2022-07-19 14:39:51,509] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_47.pth.tar
+[2022-07-19 14:44:43,644] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_48.pth.tar
+[2022-07-19 14:49:31,506] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_49.pth.tar
+[2022-07-19 14:54:20,644] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_50.pth.tar
+[2022-07-19 14:59:22,999] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_51.pth.tar
+[2022-07-19 15:04:16,181] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_52.pth.tar
+[2022-07-19 15:09:07,761] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_53.pth.tar
+[2022-07-19 15:13:58,505] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_54.pth.tar
+[2022-07-19 15:18:52,663] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_55.pth.tar
+[2022-07-19 15:23:49,841] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_56.pth.tar
+[2022-07-19 15:28:49,199] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_57.pth.tar
+[2022-07-19 15:33:46,285] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_58.pth.tar
+[2022-07-19 15:38:30,109] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_59.pth.tar
+[2022-07-19 15:43:29,160] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_60.pth.tar
+[2022-07-19 15:48:23,982] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_61.pth.tar
+[2022-07-19 15:53:12,933] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_62.pth.tar
+[2022-07-19 15:58:05,069] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_63.pth.tar
+[2022-07-19 16:03:02,083] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_64.pth.tar
+[2022-07-19 16:07:55,645] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_65.pth.tar
+[2022-07-19 16:12:52,247] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_66.pth.tar
+[2022-07-19 16:17:40,193] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_67.pth.tar
+[2022-07-19 16:22:27,520] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_68.pth.tar
+[2022-07-19 16:27:14,841] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_69.pth.tar
+[2022-07-19 16:31:59,129] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_70.pth.tar
+[2022-07-19 16:36:48,738] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_71.pth.tar
+[2022-07-19 16:41:31,448] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_72.pth.tar
+[2022-07-19 16:46:26,836] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_73.pth.tar
+[2022-07-19 16:51:26,098] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_74.pth.tar
+[2022-07-19 16:56:19,045] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_75.pth.tar
+[2022-07-19 17:01:03,412] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_76.pth.tar
+[2022-07-19 17:05:51,400] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_77.pth.tar
+[2022-07-19 17:10:49,149] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_78.pth.tar
+[2022-07-19 17:15:39,023] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_79.pth.tar
+[2022-07-19 17:20:25,685] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_80.pth.tar
+[2022-07-19 17:25:08,962] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_81.pth.tar
+[2022-07-19 17:29:54,524] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_82.pth.tar
+[2022-07-19 17:34:38,868] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_83.pth.tar
+[2022-07-19 17:39:24,549] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_84.pth.tar
+[2022-07-19 17:44:19,565] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_85.pth.tar
+[2022-07-19 17:49:20,176] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_86.pth.tar
+[2022-07-19 17:54:10,418] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_87.pth.tar
+[2022-07-19 17:58:55,808] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_88.pth.tar
+[2022-07-19 18:03:47,614] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_89.pth.tar
+[2022-07-19 18:08:39,720] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_90.pth.tar
+[2022-07-19 18:13:26,823] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_91.pth.tar
+[2022-07-19 18:18:12,490] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_92.pth.tar
+[2022-07-19 18:23:09,992] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_93.pth.tar
+[2022-07-19 18:28:08,507] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_94.pth.tar
+[2022-07-19 18:32:57,642] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_95.pth.tar
+[2022-07-19 18:37:42,776] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_96.pth.tar
+[2022-07-19 18:42:43,680] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_97.pth.tar
+[2022-07-19 18:47:28,614] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_98.pth.tar
+[2022-07-19 18:52:16,402] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_99.pth.tar
+[2022-07-19 18:57:03,185] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_100.pth.tar
+[2022-07-19 19:01:54,209] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_101.pth.tar
+[2022-07-19 19:06:49,952] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_102.pth.tar
+[2022-07-19 19:11:34,431] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_103.pth.tar
+[2022-07-19 19:16:21,066] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_104.pth.tar
+[2022-07-19 19:21:09,452] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_105.pth.tar
+[2022-07-19 19:25:55,960] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_106.pth.tar
+[2022-07-19 19:30:42,330] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_107.pth.tar
+[2022-07-19 19:35:39,175] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_108.pth.tar
+[2022-07-19 19:40:24,422] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_109.pth.tar
+[2022-07-19 19:45:18,618] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_110.pth.tar
+[2022-07-19 19:50:14,435] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_111.pth.tar
+[2022-07-19 19:55:00,082] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_112.pth.tar
+[2022-07-19 19:59:51,259] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_113.pth.tar
+[2022-07-19 20:04:43,245] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_114.pth.tar
+[2022-07-19 20:09:33,695] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_115.pth.tar
+[2022-07-19 20:14:32,490] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_116.pth.tar
+[2022-07-19 20:19:16,183] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_117.pth.tar
+[2022-07-19 20:24:14,618] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_118.pth.tar
+[2022-07-19 20:29:00,247] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_119.pth.tar
+[2022-07-19 20:33:54,224] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_120.pth.tar
+[2022-07-19 20:38:51,822] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_121.pth.tar
+[2022-07-19 20:43:46,760] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_122.pth.tar
+[2022-07-19 20:48:42,916] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_123.pth.tar
+[2022-07-19 20:53:27,117] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_124.pth.tar
+[2022-07-19 20:58:26,706] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_125.pth.tar
+[2022-07-19 21:03:12,832] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_126.pth.tar
+[2022-07-19 21:08:01,743] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_127.pth.tar
+[2022-07-19 21:12:48,863] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_128.pth.tar
+[2022-07-19 21:17:41,540] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_129.pth.tar
+[2022-07-19 21:22:26,265] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_130.pth.tar
+[2022-07-19 21:27:15,985] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_131.pth.tar
+[2022-07-19 21:32:00,291] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_132.pth.tar
+[2022-07-19 21:36:45,268] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_133.pth.tar
+[2022-07-19 21:41:32,592] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_134.pth.tar
+[2022-07-19 21:46:31,307] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_135.pth.tar
+[2022-07-19 21:51:25,664] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_136.pth.tar
+[2022-07-19 21:56:16,747] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_137.pth.tar
+[2022-07-19 22:01:10,633] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_138.pth.tar
+[2022-07-19 22:06:07,287] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_139.pth.tar
+[2022-07-19 22:10:50,548] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_140.pth.tar
+[2022-07-19 22:15:46,588] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_141.pth.tar
+[2022-07-19 22:20:32,914] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_142.pth.tar
+[2022-07-19 22:25:24,417] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_143.pth.tar
+[2022-07-19 22:30:22,393] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_144.pth.tar
+[2022-07-19 22:35:09,335] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_145.pth.tar
+[2022-07-19 22:39:59,722] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_146.pth.tar
+[2022-07-19 22:45:02,351] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_147.pth.tar
+[2022-07-19 22:49:58,305] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_148.pth.tar
+[2022-07-19 22:54:54,818] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_149.pth.tar
+[2022-07-19 22:59:41,053] [p14144] [D:/A-Practical-Facial-Landmark-Detector-master/train.py:29] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_150.pth.tar
